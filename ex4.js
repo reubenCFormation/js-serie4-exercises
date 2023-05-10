@@ -3,5 +3,6 @@
    1) Si l'etudiant a une moyenne au dessus de 16, nous allons lister sa moyenne en vert
    2) Si l'etudiant a une moyenne entre 10 et 16 nous allons lister sa moyenne en orange 
    3) Si l'etudiant a une moyenne en dessous de 10, nous allons lister sa moyenne en rouge
+   4) Enfin, nous allons afficher le nombre d'etudiants dans la liste de maniere dynamique
 
 */
