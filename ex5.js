@@ -1,0 +1,2 @@
+// ici, dans cette exercise, trouvez un moyen de viser toutes les balises qui contiennent  la classe "child-div" et ensuite rajouter du contenu textuelle a chacune d'entre elles sans effacer le texte qui est deja ecrit en dur dans le fichier html. Appliquer le style que vous souhaitiez a chacune des divs 
+// BONUS. Si le contenu textuelle fait moins de 20 caracteres, rajoutez "ce texte est court". Sinon rajouter, "ce texte est long".
